@@ -1,0 +1,16 @@
+{
+  "name": "@frankie/rsa",
+  "version": "1.0.0",
+  "description": "RSA Encryption",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "math": "0.0.3",
+    "mathjs": "^8.0.1"
+  }
+}
